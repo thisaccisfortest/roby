@@ -4,7 +4,7 @@
  */
 {
 	"$schema": "node_modules/wrangler/config-schema.json",
-	"name": "holy-sunset-5828",
+	"name": "roby",
 	"main": "src/entry.py",
 	"compatibility_date": "2026-09-16",
 	"compatibility_flags": [
